@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Emotion Classification Notebook
 
 ## Project Title
